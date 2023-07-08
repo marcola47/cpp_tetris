@@ -1,0 +1,519 @@
+# depslib dependency file v1.0
+1655150461 source:d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1655150407 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1655835771 source:d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+	"auxiliar.h"
+
+1595874226 d:\ufsm\disciplinas\logica e algoritmo\programas\la_14_canvas2d_win\meuprograma\src\auxiliar.h
+
+1658797194 source:c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1658779227 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1659030839 source:c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<chrono>
+	"gl_canvas2d.h"
+	"gl_variables.h"
+	"bitmaps.h"
+	"gameLogic.h"
+	"movementFunctions.h"
+	"renderFunctions.h"
+
+1595874226 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\auxiliar.h
+
+1655150461 source:c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d lixo horrivel\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1657734235 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d lixo horrivel\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d lixo horrivel\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d lixo horrivel\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d lixo horrivel\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1657734585 source:c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d lixo horrivel\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	"gl_canvas2d.h"
+
+1658797194 source:d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1658779227 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1658959521 source:d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<chrono>
+	"gl_canvas2d.h"
+	"gl_variables.h"
+	"bitmaps.h"
+	"gameLogic.h"
+	"movementFunctions.h"
+	"renderFunctions.h"
+
+1655150461 source:c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1657734235 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1655150461 source:d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1657734235 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1658522808 source:d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d - struct\meuprograma\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<math.h>
+	<time.h>
+	<chrono>
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"gl_canvas2d.h"
+
+1658805629 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_bitmaps.h
+
+1658773360 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_bitmaps.h
+
+1659029518 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_variables.h
+
+1658780130 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_gamelogic.h
+	"gl_variables.h"
+
+1658779254 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_screen.h
+
+1658805265 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_gamelogic.h
+	"gl_variables.h"
+
+1658957350 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_variables.h
+
+1658803532 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_movementfunctions.h
+
+1658803536 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gl_renderfunctions.h
+
+1658959905 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\bitmaps.h
+
+1658959296 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gamelogic.h
+
+1658954070 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\movementfunctions.h
+
+1658959769 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\renderfunctions.h
+
+1658959905 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\bitmaps.h
+
+1659030709 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\gamelogic.h
+
+1658954070 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\movementfunctions.h
+
+1659030701 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\meuprograma\src\renderfunctions.h
+
+1658797194 source:c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1658779227 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1659030839 source:c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<stdbool.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<time.h>
+	<chrono>
+	"gl_canvas2d.h"
+	"gl_variables.h"
+	"bitmaps.h"
+	"gameLogic.h"
+	"movementFunctions.h"
+	"renderFunctions.h"
+
+1659029518 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\src\gl_variables.h
+
+1658959905 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\src\bitmaps.h
+
+1659030709 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\src\gamelogic.h
+
+1658954070 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\src\movementfunctions.h
+
+1659030701 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\marcoseduardo - t04 - tetris\src\renderfunctions.h
+
+1658797194 source:c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\t04_marcoseduardo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1658779227 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\t04_marcoseduardo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\t04_marcoseduardo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\t04_marcoseduardo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\canvas2d\t04_marcoseduardo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1658797194 source:d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1658779227 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1659244339 source:d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<chrono>
+	"gl_canvas2d.h"
+	"gl_variables.h"
+	"bitmaps.h"
+	"gameLogic.h"
+	"movementFunctions.h"
+	"renderFunctions.h"
+
+1659245718 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\gl_variables.h
+
+1659243941 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\bitmaps.h
+
+1659243941 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\gamelogic.h
+
+1659244108 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\movementfunctions.h
+
+1659298228 d:\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\renderfunctions.h
+
+1658797194 source:c:\users\marco\desktop\t04\trab4marcoseduardo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1658779227 c:\users\marco\desktop\t04\trab4marcoseduardo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\marco\desktop\t04\trab4marcoseduardo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\marco\desktop\t04\trab4marcoseduardo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\marco\desktop\t04\trab4marcoseduardo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1659244339 source:c:\users\marco\desktop\t04\trab4marcoseduardo\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<chrono>
+	"gl_canvas2d.h"
+	"gl_variables.h"
+	"bitmaps.h"
+	"gameLogic.h"
+	"movementFunctions.h"
+	"renderFunctions.h"
+
+1659245084 c:\users\marco\desktop\t04\trab4marcoseduardo\src\gl_variables.h
+
+1659243941 c:\users\marco\desktop\t04\trab4marcoseduardo\src\bitmaps.h
+
+1659243941 c:\users\marco\desktop\t04\trab4marcoseduardo\src\gamelogic.h
+
+1659244108 c:\users\marco\desktop\t04\trab4marcoseduardo\src\movementfunctions.h
+
+1659244987 c:\users\marco\desktop\t04\trab4marcoseduardo\src\renderfunctions.h
+
+1658797194 source:c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\gl_canvas2d.cpp
+	"gl_canvas2d.h"
+	<GL/glut.h>
+
+1658779227 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\gl_canvas2d.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\include\gl\glut.h
+	"freeglut_std.h"
+
+1437579942 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1426372440 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\include\gl\freeglut_ext.h
+	<stdarg.h>
+
+1659639197 source:c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\main.cpp
+	<GL/glut.h>
+	<GL/freeglut_ext.h>
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+	<chrono>
+	"gl_canvas2d.h"
+	"gl_variables.h"
+	"bitmaps.h"
+	"gameLogic.h"
+	"movementFunctions.h"
+	"renderFunctions.h"
+
+1659641061 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\gl_variables.h
+
+1659243941 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\bitmaps.h
+
+1659243941 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\gamelogic.h
+
+1659719870 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\movementfunctions.h
+
+1659365859 c:\users\marco\desktop\onedrive\work\ufsm\semestre 02\lógica e algorítmo\trabalhos\t04\trab4marcoseduardo\src\renderfunctions.h
+
